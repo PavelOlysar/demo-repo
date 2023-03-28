@@ -1,6 +1,5 @@
 import PySimpleGUI as sg
-import random
-import string
+
 
 BOX_SIZE = 15
 znak = "X"
